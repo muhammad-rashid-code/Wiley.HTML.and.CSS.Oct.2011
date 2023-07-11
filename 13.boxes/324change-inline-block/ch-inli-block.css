@@ -1,0 +1,15 @@
+/* li {
+    display: inline;
+    margin-right: 10px;}
+    li.coming-soon {
+    display: none;} */
+
+li {
+    display: inline;
+    margin-right: 10px;
+    text-transform: capitalize;
+}
+
+li.coming-soon {
+    display: none;
+}
