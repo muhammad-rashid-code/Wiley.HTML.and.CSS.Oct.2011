@@ -1,0 +1,8 @@
+p.one {
+    border-color: violet;
+}
+
+/* body {background-color: ;} */
+p.two {
+    border-color: violet indigo blue green;
+}
