@@ -1,0 +1,19 @@
+/* p {
+    border: 5px solid #cccccc;
+    padding: 20px;
+    width: 275px;
+    text-align: center;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+} */
+p {
+    border: 6px solid violet;
+    width: 275px;
+    text-align: left;
+    margin: auto 35px auto 10px;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius:10px;
+}
