@@ -1,0 +1,10 @@
+h1,
+h2,
+li {
+    text-transform: capitalize;
+}
+
+ol {
+    list-style-type: lower-roman;
+list-style-type: lower-alpha    ;
+}

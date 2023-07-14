@@ -1,0 +1,31 @@
+ul {
+    width: 150px;
+}
+
+li {
+    margin: 10px;
+}
+
+ul.illuminations {
+    list-style-position: outside;
+}
+
+ul.season {
+    list-style-position: inside;
+}
+
+/* ul {
+    width: 150px;
+}
+
+li {
+    margin: 10px;
+}
+
+ul.illuminations {
+    list-style-position: outside;
+}
+
+ul.season {
+    list-style-position: inside;
+} */
